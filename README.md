@@ -1,4 +1,4 @@
-# Bigdata
+## Bigdata <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 
 ### Crawling
 >* Requests - 파이썬 HTML 페이지 요청
